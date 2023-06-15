@@ -1,34 +1,47 @@
+
 class Solution {
-    bool isCyclic(vector<vector<int>>& adj,vector<int>& visited,int curr)
-    {
-        if(visited[curr]==2)
-            return true;
+public:
+    
+    bool DFSRec(int s, vector<bool>&visited, vector<bool>&currVisited, vector<int>adj[]){
+        visited[s] = true;
+        currVisited[s] = true;
         
-        visited[curr] = 2;
-        for(int i=0;i<adj[curr].size();++i)
-            if(visited[adj[curr][i]]!=1)
-                if(isCyclic(adj,visited,adj[curr][i]))
+        vector<int>data = adj[s];
+        for(auto x: data){
+            if(!visited[x]){
+                if(DFSRec(x, visited, currVisited, adj)){
                     return true;
+                }
+            }
+            else if(visited[x] && currVisited[x]){
+                return true;
+            }
+        }
         
-        visited[curr] = 1;
+        currVisited[s] = false;
         return false;
     }
-public:
+    
     bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
-        ios_base::sync_with_stdio(false);
-        cin.tie(NULL);
-        cout.tie(NULL);
         
-        vector<vector<int>> adj(numCourses);
-        //Make adjacency matrix (Directed graph)
-        for(int i=0;i<prerequisites.size();++i)
-            adj[prerequisites[i][0]].push_back(prerequisites[i][1]);
+        int n = numCourses;
+        vector<bool>visited(n, false), currVisited(n, false);
         
-        vector<int> visited(numCourses,0);
-        for(int i=0;i<numCourses;++i)
-            if(visited[i]==0)
-                if(isCyclic(adj,visited,i))
+        vector<int>adj[n];
+        for(auto x: prerequisites){
+            vector<int>data = x;
+            int a = data[0];
+            int b = data[1];
+            adj[a].push_back(b);
+        }
+        
+        for(int i=0; i<n; i++){
+            if(!visited[i]){
+                if(DFSRec(i, visited, currVisited, adj)){
                     return false;
+                }
+            }
+        }
         
         return true;
     }
