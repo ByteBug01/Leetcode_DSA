@@ -1,31 +1,27 @@
 class Solution {
 public:
-    //selection sort // TC = n^2
-    void sortColors(vector<int>& a) {
-//          int mini, i, j;
-//     for( i = 0; i<a.size()-1; i++){
-//         mini = i;
-//         for( j=i+1; j<a.size(); j++){
-//             if(a[j]<a[mini]){
-//                 mini=j;
-//             }
-            
-//         }
-//         if(mini!=i)
-//     swap(a[i], a[mini]);
-        
-        
-//     }
-        int n= a.size();
-        int key;
-        for(int i = 1; i<n; i++){
-            key = a[i];
-            int j = i-1;
-            while(j>=0 && a[j]>key){
-                a[j+1] = a[j];
-                j--;
-            }
-            a[j+1]=key;
-        } // Insertion Sort TC=o(n^2)
+    //Dutch National Flag
+    void sortColors(vector<int>& arr)
+   {
+        int n = arr.size();
+int low = 0, mid = 0, high = n - 1; // 3 pointers
+
+    while (mid <= high) 
+    {
+        if (arr[mid] == 0) 
+        {
+            swap(arr[low], arr[mid]);
+            low++;
+            mid++;
+        }
+        else if (arr[mid] == 1) 
+        {
+            mid++;
+        }
+        else {
+            swap(arr[mid], arr[high]);
+            high--;
+             }
     } 
+  }
 };
