@@ -30,39 +30,55 @@ public:
     //     n = nums.size();
     //     return lis(nums, -1, 0);
     // }
+    //.......................
+//     int n ;
+//     int t[2501][2501];
     
-    int n ;
-    int t[2501][2501];
+//     int solve(vector<int> &nums, int i , int P){
+//        if(i>= n) return 0;
+        
+//         if(P != -1 && t[i][P] != -1){
+//             return t[i][P];
+//         }
+        
+//         int take = 0 ;
+//         if(P == -1 || nums[i] > nums[P]){
+//             take = 1 + solve(nums, i+1, i);  // length return krna hai
+//         }
+        
+//        int skip = solve(nums, i+1 , P);
+        
+//         if(P != - 1)
+//             t[i][P] = max(take, skip);
+        
+        
+//         return max(take, skip);
+        
+        
+//     }
     
-    int solve(vector<int> &nums, int i , int P){
-       if(i>= n) return 0;
+//     int lengthOfLIS(vector<int>& nums) {
+       
+//         n = nums.size();
         
-        if(P != -1 && t[i][P] != -1){
-            return t[i][P];
-        }
+//         memset(t, -1, sizeof(t));
         
-        int take = 0 ;
-        if(P == -1 || nums[i] > nums[P]){
-            take = 1 + solve(nums, i+1, i);  // length return krna hai
-        }
-        
-       int skip = solve(nums, i+1 , P);
-        
-        if(P != - 1)
-            t[i][P] = max(take, skip);
-        
-        
-        return max(take, skip);
-        
-        
-    }
+//         return solve(nums, 0, -1);
+//     }
+    
     
     int lengthOfLIS(vector<int>& nums) {
-       
-        n = nums.size();
-        
-        memset(t, -1, sizeof(t));
-        
-        return solve(nums, 0, -1);
+    int n = nums.size();
+   vector<int> dp(n, 1); // Initialize an array to store the length of LIS ending at each index
+
+    for (int i = 1; i < n; ++i) {
+        for (int j = 0; j < i; ++j) {
+            if (nums[i] > nums[j]) {
+                dp[i] = max(dp[i], dp[j] + 1);
+            }
+        }
     }
+
+    return *std::max_element(dp.begin(), dp.end()); // Return the maximum value in dp array
+}
 };
