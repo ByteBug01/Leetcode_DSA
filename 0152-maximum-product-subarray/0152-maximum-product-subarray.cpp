@@ -1,36 +1,24 @@
 class Solution {
 public:
     int maxProduct(vector<int>& nums) {
-      int maxLeft = nums[0];
-    int maxRight = nums[0];
-    
-    int prod = 1;
-    
-    bool zeroPresent =  false;
-    
-    for(auto i:nums) {
-        prod *= i;
-        if(i == 0) {
-            zeroPresent = true;
-            prod = 1;
-            continue;
+        /// not with DP but in more simple thought of left , right iteration
+int n  = nums.size();
+
+        int leftprod = 1;
+        int rightprod = 1;
+
+        int ans = nums[0]; // not 0 but 1st element in case of if there is only 1 element in a vector
+
+        for(int i = 0 ; i<n; i++){
+            leftprod = leftprod == 0 ? 1: leftprod;
+            rightprod = rightprod == 0 ?1 : rightprod;
+
+             leftprod *= nums[i];
+             rightprod *= nums[n - 1 - i];
+
+             ans = max(max(leftprod, rightprod), ans);
         }
-        maxLeft = max(maxLeft,prod);
-    }
-    
-    prod = 1;
-    
-    for(int j=nums.size()-1;j>=0;j--) {
-        prod *= nums[j];
-        if(nums[j] == 0) {
-            zeroPresent = true;
-            prod = 1;
-            continue;
-        }
-        maxRight = max(maxRight,prod);
-    }
-    
-    if(zeroPresent) return max(max(maxLeft,maxRight),0);
-    return max(maxLeft,maxRight);   
+
+        return ans;
     }
 };
