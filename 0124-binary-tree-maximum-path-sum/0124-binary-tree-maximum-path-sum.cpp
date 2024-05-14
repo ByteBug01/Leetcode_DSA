@@ -9,18 +9,35 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
+
+
 class Solution {
 public:
-    int ans = INT_MIN;
-    int dfs(TreeNode* root){
-        if(root==nullptr) return 0;
-        int l = max(dfs(root->left),0);
-        int r = max(dfs(root->right),0);
-        ans = max(ans,root->val+l+r);
-        return max(l+root->val,r+root->val);
-    }
+int maxsum;
+
+int solve(TreeNode* root){
+    if(root == NULL) return 0;
+
+
+    int l = solve(root->left);
+    int r = solve(root->right);
+
+    int niche_hi_ans_milgya = l + r + root->val;
+
+    int koi_ek_acha_mila = max(l,r)  + root->val;
+
+    int sirf_rootval_max_h = root->val;
+
+    maxsum = max({maxsum, niche_hi_ans_milgya, koi_ek_acha_mila, sirf_rootval_max_h} );
+
+    return max( koi_ek_acha_mila, sirf_rootval_max_h);
+}
+
     int maxPathSum(TreeNode* root) {
-        dfs(root);
-        return ans;
+       maxsum =  INT_MIN;
+
+        solve(root);
+
+        return maxsum;
     }
 };
