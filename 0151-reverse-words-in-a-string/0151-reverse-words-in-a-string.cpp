@@ -1,20 +1,63 @@
 class Solution {
 public:
     string reverseWords(string s) {
-      string result;
-      int i=0;
-      int n=s.length();
+    //     int n = s.size();
 
-      while(i<n){
-          while(i<n && s[i] == ' ') i++;
-          if(i>=n) break;
-               int j=i+1;
-               while(j<n && s[j] != ' ') j++; 
-             string sub = s.substr(i, j-i);
-               if(result.length() == 0) result = sub;
-               else result = sub + " " + result;
-               i = j+1;
-               }
-               return result;
+    //     stack<char> st;
+
+    //     for(auto ch: s){
+    //         st.push(ch);
+    //     }
+
+    //    string ans = "";
+
+    //     while(!st.empty()){
+    //        string temp = "";
+    //        temp += st.top();
+    //        st.pop();
+    //        if(st.top() == ' '){
+    //         reverse(temp.begin(), temp.end());
+    //         ans = temp + " ";
+    //         temp = "";
+    //        } 
+    //     }
+
+    //     return ans;
+
+        //instead of pushing a character into stack push whole one word
+
+        int n = s.size();
+        stack<string> st;
+        string temp = "";
+        
+        for(int i = 0; i < n; ++i) {
+            if(s[i] == ' ') {
+                if(!temp.empty()) {
+                    st.push(temp);
+                    temp = "";
+                }
+            } else {
+                temp += s[i];
+            }
+        }
+        
+        
+        if(!temp.empty()) {
+            st.push(temp);
+        }
+
+        string ans = "";
+        
+    
+        while(!st.empty()) {
+            ans += st.top();
+            st.pop();
+            if(!st.empty()) {
+                ans += " ";
+            }
+        }
+        
+        return ans;
+
     }
 };
