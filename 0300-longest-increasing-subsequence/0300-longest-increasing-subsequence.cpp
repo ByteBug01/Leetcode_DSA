@@ -66,19 +66,24 @@ public:
 //         return solve(nums, 0, -1);
 //     }
     
-    
+    // BOTTOM UP ----VERY EASY
     int lengthOfLIS(vector<int>& nums) {
+    
     int n = nums.size();
-   vector<int> dp(n, 1); // Initialize an array to store the length of LIS ending at each index
 
-    for (int i = 1; i < n; ++i) {
-        for (int j = 0; j < i; ++j) {
-            if (nums[i] > nums[j]) {
-                dp[i] = max(dp[i], dp[j] + 1);
+    vector<int> t(n, 1);
+
+    int maxLen = 1; //as each element is itself a subsequence 
+
+    for(int i =0; i<n; i++){
+        for(int j = 0; j<i; j++){
+            if(nums[j] < nums[i]){
+                t[i] = max(t[i], t[j] + 1); //t[j] ke val me 1 add hoga, kyuki t[i] ki initial val 1 hai
+                maxLen = max(maxLen, t[i]);
             }
+            
         }
     }
-
-    return *std::max_element(dp.begin(), dp.end()); // Return the maximum value in dp array
+return maxLen;
 }
 };
