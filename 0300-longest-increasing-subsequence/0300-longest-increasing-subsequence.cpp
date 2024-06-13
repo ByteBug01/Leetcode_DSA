@@ -1,5 +1,5 @@
-class Solution {
-public:
+// class Solution {
+// public:
     
 //     int n;
 //     int t[2501][2501]; //for memoization
@@ -66,24 +66,48 @@ public:
 //         return solve(nums, 0, -1);
 //     }
     
-    // BOTTOM UP ----VERY EASY
-    int lengthOfLIS(vector<int>& nums) {
+    // BOTTOM UP ----VERY EASY------------------------------------
+//     int lengthOfLIS(vector<int>& nums) {
     
-    int n = nums.size();
+//     int n = nums.size();
 
-    vector<int> t(n, 1);
+//     vector<int> t(n, 1);
 
-    int maxLen = 1; //as each element is itself a subsequence 
+//     int maxLen = 1; //as each element is itself a subsequence 
 
-    for(int i =0; i<n; i++){
-        for(int j = 0; j<i; j++){
-            if(nums[j] < nums[i]){
-                t[i] = max(t[i], t[j] + 1); //t[j] ke val me 1 add hoga, kyuki t[i] ki initial val 1 hai
-                maxLen = max(maxLen, t[i]);
-            }
+//     for(int i =0; i<n; i++){
+//         for(int j = 0; j<i; j++){
+//             if(nums[j] < nums[i]){
+//                 t[i] = max(t[i], t[j] + 1); //t[j] ke val me 1 add hoga, kyuki t[i] ki initial val 1 hai
+//                 maxLen = max(maxLen, t[i]);
+//             }
             
+//         }
+//     }
+// return maxLen;
+// }
+// };
+
+//PATIENCE SORTING----------------------------------
+
+class Solution {
+public:
+ int lengthOfLIS(vector<int>& nums) {
+        int n  =nums.size();
+
+        vector<int> sorted;
+
+        for(int i  =0; i<n; i++){
+            auto it = lower_bound(begin(sorted), end(sorted), nums[i]); //just greater than or equal to nums[i]
+
+            if(it == end(sorted)){  //no lele found which is greater than or equal to nums[i]
+              sorted.push_back(nums[i]); //mtlb yhi greatest hai
+            }else{
+                *it = nums[i]; //agr mila toh replace krdo
+            }
         }
-    }
-return maxLen;
-}
+
+        return sorted.size();
+ }
 };
+   
