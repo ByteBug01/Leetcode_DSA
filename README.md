@@ -58,4 +58,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2299-merge-nodes-in-between-zeros](https://github.com/ByteBug01/Leetcode_DSA/tree/master/2299-merge-nodes-in-between-zeros) |
+| [2645-pass-the-pillow](https://github.com/ByteBug01/Leetcode_DSA/tree/master/2645-pass-the-pillow) |
+## Math
+|  |
+| ------- |
+| [2645-pass-the-pillow](https://github.com/ByteBug01/Leetcode_DSA/tree/master/2645-pass-the-pillow) |
 <!---LeetCode Topics End-->
