@@ -27,7 +27,7 @@ public:
 };
 */
 
-//------using hashmap, and marking visited---------------------
+//------using unordered_set------------------------------------------
 // class Solution {
 // public:
 
@@ -59,24 +59,51 @@ public:
 //     }
 // };
 
+
+//-----------------using unordered_map----------------------------------------
+// class Solution {
+// public:
+
+// //while trversing if any node is seen which is already pesent in map then return false
+//     bool hasCycle(ListNode *head) {
+//          unordered_map<ListNode*, int> mp;
+
+//              ListNode* temp  = head;
+
+//         while(temp!= NULL &&  temp->next != NULL){
+
+//             if(mp.find(temp) != mp.end()){
+//                 return true;
+//             }
+
+//             mp[temp] = 1;
+
+//             temp =  temp->next;
+//         }
+
+//         return false;
+//     }
+// };
+
+//------------------------------------------
+//-------------in constant space -------------------
+// with slow and fast pointer method, at some point slow and fast pointer meet that means there is cycle
+
 class Solution {
 public:
 
-//while trversing if any node is seen which is already pesent in map then return false
     bool hasCycle(ListNode *head) {
-         unordered_map<ListNode*, int> mp;
+        ListNode* slow = head;
+        ListNode* fast = head;
 
-             ListNode* temp  = head;
+        while(fast != NULL && fast->next != NULL){
+            fast = fast->next->next; //2 step
+            slow = slow->next; // 1 step
 
-        while(temp!= NULL &&  temp->next != NULL){
 
-            if(mp.find(temp) != mp.end()){
+            if(slow == fast){
                 return true;
             }
-
-            mp[temp] = 1;
-
-            temp =  temp->next;
         }
 
         return false;
