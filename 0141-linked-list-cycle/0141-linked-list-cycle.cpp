@@ -28,31 +28,55 @@ public:
 */
 
 //------using hashmap, and marking visited---------------------
+// class Solution {
+// public:
+
+// //while trversing if any node is seen which is already pesent in map then return false
+//     bool hasCycle(ListNode *head) {
+
+// if(head == NULL || head->next == NULL){
+//     return false;
+// }
+
+//         // unordered_map<int, int> mp;
+
+//         unordered_set<ListNode*> mp;
+
+//         ListNode* temp  = head;
+
+//         while(temp!= NULL &&  temp->next != NULL){
+//             if(mp.find(temp) == mp.end()){
+//                mp.insert(temp);
+//             }
+//             else{
+//                 return true;
+//             }
+
+//             temp = temp->next;
+//         }
+
+//         return false;
+//     }
+// };
+
 class Solution {
 public:
 
 //while trversing if any node is seen which is already pesent in map then return false
     bool hasCycle(ListNode *head) {
+         unordered_map<ListNode*, int> mp;
 
-if(head == NULL || head->next == NULL){
-    return false;
-}
-
-        // unordered_map<int, int> mp;
-
-        unordered_set<ListNode*> mp;
-
-        ListNode* temp  = head;
+             ListNode* temp  = head;
 
         while(temp!= NULL &&  temp->next != NULL){
-            if(mp.find(temp) == mp.end()){
-               mp.insert(temp);
-            }
-            else{
+
+            if(mp.find(temp) != mp.end()){
                 return true;
             }
 
-            temp = temp->next;
+            mp[temp] = 1;
+
+            temp =  temp->next;
         }
 
         return false;
