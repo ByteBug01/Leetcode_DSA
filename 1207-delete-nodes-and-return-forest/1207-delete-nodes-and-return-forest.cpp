@@ -50,6 +50,8 @@ public:
     TreeNode* deleteNodes(TreeNode* root, set<int> st, vector<TreeNode*>& result) {
         if(!root)
             return NULL;
+
+            //dfs , exploring depth nodes first
         root->left  = deleteNodes(root->left , st, result); //left  se deleted nodes
         root->right = deleteNodes(root->right, st, result); //right se deleted nodes
         
