@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1496-lucky-numbers-in-a-matrix](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1720-crawler-log-folder](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1720-crawler-log-folder) |
+| [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1803-average-waiting-time](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/ByteBug01/Leetcode_DSA/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0726-number-of-atoms](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1720-crawler-log-folder) |
+| [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/ByteBug01/Leetcode_DSA/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Tree
@@ -153,4 +155,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1496-lucky-numbers-in-a-matrix) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 <!---LeetCode Topics End-->
