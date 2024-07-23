@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0726-number-of-atoms) |
 | [1207-delete-nodes-and-return-forest](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1207-delete-nodes-and-return-forest) |
+| [1619-path-crossing](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1619-path-crossing) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/ByteBug01/Leetcode_DSA/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2502-sort-the-people](https://github.com/ByteBug01/Leetcode_DSA/tree/master/2502-sort-the-people) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1517-restore-the-array](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1517-restore-the-array) |
+| [1619-path-crossing](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1619-path-crossing) |
 | [1720-crawler-log-folder](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1720-crawler-log-folder) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1818-maximum-score-from-removing-substrings) |
