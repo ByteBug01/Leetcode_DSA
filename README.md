@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1720-crawler-log-folder](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1720-crawler-log-folder) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1884-minimum-changes-to-make-alternating-binary-string](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1884-minimum-changes-to-make-alternating-binary-string) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/ByteBug01/Leetcode_DSA/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2502-sort-the-people](https://github.com/ByteBug01/Leetcode_DSA/tree/master/2502-sort-the-people) |
 ## Tree
