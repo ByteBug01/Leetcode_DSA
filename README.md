@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0043-multiply-strings) |
 | [0076-minimum-window-substring](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0076-minimum-window-substring) |
+| [0091-decode-ways](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0091-decode-ways) |
 | [0166-fraction-to-recurring-decimal](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0166-fraction-to-recurring-decimal) |
 | [0726-number-of-atoms](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0091-decode-ways](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0091-decode-ways) |
 | [0911-profitable-schemes](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0911-profitable-schemes) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1517-restore-the-array](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1517-restore-the-array) |
