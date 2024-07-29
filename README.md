@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1293-three-consecutive-odds](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1293-three-consecutive-odds) |
 | [1333-sort-the-jumbled-numbers](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1333-sort-the-jumbled-numbers) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1511-count-number-of-teams](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1511-count-number-of-teams) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1706-min-cost-to-connect-all-points](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1706-min-cost-to-connect-all-points) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0911-profitable-schemes](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0911-profitable-schemes) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1511-count-number-of-teams](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1511-count-number-of-teams) |
 | [1517-restore-the-array](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1517-restore-the-array) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 ## Sliding Window
@@ -266,4 +268,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/ByteBug01/Leetcode_DSA/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/ByteBug01/Leetcode_DSA/tree/master/3235-minimum-cost-to-convert-string-i) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [1511-count-number-of-teams](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1511-count-number-of-teams) |
 <!---LeetCode Topics End-->
