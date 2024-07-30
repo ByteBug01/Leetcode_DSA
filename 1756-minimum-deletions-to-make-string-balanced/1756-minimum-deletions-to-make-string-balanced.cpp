@@ -34,22 +34,42 @@
 //     }
 // };
 
+//-----------------------------------------------------------------------
+// class Solution {
+// public:
+//     int minimumDeletions(string s) {
+//         int n = s.length();
+//         int countB = 0;
+//         int minDel = 0;
+        
+//         for (char c : s) {
+//             if (c == 'b') {
+//                 countB++;
+//             } else {
+//                 minDel = min(minDel + 1, countB);
+//             }
+//         }
+        
+//         return minDel;
+//     }
+// };
 
+//approach - 1:
 class Solution {
 public:
     int minimumDeletions(string s) {
-        int n = s.length();
-        int countB = 0;
-        int minDel = 0;
-        
-        for (char c : s) {
-            if (c == 'b') {
-                countB++;
-            } else {
-                minDel = min(minDel + 1, countB);
+            
+            stack<char> st;
+            int cnt = 0;
+            for(auto & ch: s){
+                if(!st.empty() && st.top() == 'b' && ch == 'a'){ //cnt 'ba'
+                   st.pop();
+                    cnt++;
+                }else{
+                    st.push(ch);
+                }
             }
-        }
-        
-        return minDel;
+
+            return cnt;
     }
 };
