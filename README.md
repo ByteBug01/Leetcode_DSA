@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0726-number-of-atoms](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1720-crawler-log-folder) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2846-robot-collisions](https://github.com/ByteBug01/Leetcode_DSA/tree/master/2846-robot-collisions) |
 ## String
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1619-path-crossing](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1619-path-crossing) |
 | [1720-crawler-log-folder](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1720-crawler-log-folder) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1884-minimum-changes-to-make-alternating-binary-string](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1884-minimum-changes-to-make-alternating-binary-string) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/ByteBug01/Leetcode_DSA/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1511-count-number-of-teams](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1511-count-number-of-teams) |
 | [1517-restore-the-array](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1517-restore-the-array) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Sliding Window
 |  |
 | ------- |
