@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1014-k-closest-points-to-origin) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1196-filling-bookcase-shelves](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1207-delete-nodes-and-return-forest) |
 | [1293-three-consecutive-odds](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1293-three-consecutive-odds) |
 | [1333-sort-the-jumbled-numbers](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1333-sort-the-jumbled-numbers) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0005-longest-palindromic-substring) |
 | [0091-decode-ways](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0091-decode-ways) |
 | [0911-profitable-schemes](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0911-profitable-schemes) |
+| [1196-filling-bookcase-shelves](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1196-filling-bookcase-shelves) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1511-count-number-of-teams) |
