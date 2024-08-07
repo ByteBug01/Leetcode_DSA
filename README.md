@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [1207-delete-nodes-and-return-forest](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1207-delete-nodes-and-return-forest) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1653-number-of-good-leaf-nodes-pairs) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0143-reorder-list) |
+| [0144-binary-tree-preorder-traversal](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0234-palindrome-linked-list) |
 | [0726-number-of-atoms](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0102-binary-tree-level-order-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1653-number-of-good-leaf-nodes-pairs) |
@@ -226,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0102-binary-tree-level-order-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1653-number-of-good-leaf-nodes-pairs) |
