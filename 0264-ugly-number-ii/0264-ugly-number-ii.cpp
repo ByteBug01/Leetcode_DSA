@@ -7,7 +7,7 @@ public:
 
     i2 = i3 = i5 = 1;
 
-    t[1] = 1;
+    t[1] = 1; //1st ugly number
 
     for(int i =2; i<=n; i++){
        int i2_ugly = t[i2]*2;
