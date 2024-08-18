@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0166-fraction-to-recurring-decimal](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0166-fraction-to-recurring-decimal) |
+| [0264-ugly-number-ii](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0264-ugly-number-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0726-number-of-atoms](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0726-number-of-atoms) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0043-multiply-strings) |
 | [0166-fraction-to-recurring-decimal](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0166-fraction-to-recurring-decimal) |
+| [0264-ugly-number-ii](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0264-ugly-number-ii) |
 | [0870-magic-squares-in-grid](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0870-magic-squares-in-grid) |
 | [1014-k-closest-points-to-origin](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1014-k-closest-points-to-origin) |
 | [1642-water-bottles](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1642-water-bottles) |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0005-longest-palindromic-substring) |
 | [0091-decode-ways](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0091-decode-ways) |
 | [0198-house-robber](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0198-house-robber) |
+| [0264-ugly-number-ii](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0264-ugly-number-ii) |
 | [0911-profitable-schemes](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0911-profitable-schemes) |
 | [1196-filling-bookcase-shelves](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1196-filling-bookcase-shelves) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -314,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0264-ugly-number-ii) |
 | [0948-sort-an-array](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1014-k-closest-points-to-origin) |
 ## Quickselect
