@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0198-house-robber) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0624-maximum-distance-in-arrays](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0624-maximum-distance-in-arrays) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0143-reorder-list) |
+| [0189-rotate-array](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0234-palindrome-linked-list) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0043-multiply-strings) |
 | [0166-fraction-to-recurring-decimal](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0166-fraction-to-recurring-decimal) |
+| [0189-rotate-array](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0189-rotate-array) |
 | [0264-ugly-number-ii](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0264-ugly-number-ii) |
 | [0650-2-keys-keyboard](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0870-magic-squares-in-grid) |
