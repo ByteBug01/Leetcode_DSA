@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0198-house-robber](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0198-house-robber) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0624-maximum-distance-in-arrays](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0624-maximum-distance-in-arrays) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0143-reorder-list) |
