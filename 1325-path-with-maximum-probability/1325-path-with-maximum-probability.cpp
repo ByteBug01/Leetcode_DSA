@@ -1,35 +1,39 @@
 class Solution {
 public:
-    double maxProbability(int n, vector<vector<int>>& edges, vector<double>& succProb, int start_node, int end_node) {
-        vector<double> maxprob(n);
+//dijkstra-----------------------
+    double maxProbability(int n, vector<vector<int>>& edges, vector<double>& succProb, int start, int end) {
+        unordered_map<int, vector<pair<int, double>>> adj;
 
-        maxprob[start_node] =  1.0;
+        for(int i =0; i<edges.size(); i++){
+            int u = edges[i][0];
+            int v = edges[i][1];
 
-        for(int i =0; i<n-1; i++){
-            bool update =  false;
+            double prob = succProb[i];
+            adj[u].push_back({v, prob});
+            adj[v].push_back({u, prob});
+        }
 
-            for(int j  = 0; j<edges.size(); j++){
-                int u = edges[j][0];
-                int v = edges[j][1];
+        priority_queue<pair<double, int>> pq;
+        vector<double> res(n, 0);
+        res[start] = 1.0;
+        pq.push({1.0, start});
 
-                double pathprob = succProb[j];
+        while(!pq.empty()){
+            int curr = pq.top().second;
+            double currProb = pq.top().first;
+            pq.pop();
 
-                if(maxprob[u] * pathprob > maxprob[v]){
-                    maxprob[v] = maxprob[u] * pathprob;
-                    update = true;
+            for(auto ngbr: adj[curr]){
+                int node = ngbr.first;
+                double nodeProb = ngbr.second;
+
+                if(res[node] < currProb*nodeProb){
+                    res[node] = currProb*nodeProb;
+                    pq.push({res[node], node});
                 }
-
-                 if(maxprob[v] * pathprob > maxprob[u]){
-                    maxprob[u] = maxprob[v] * pathprob;
-                    update = true;
-                }
-            }
-
-            if(!update) {
-                break;
             }
         }
 
-        return maxprob[end_node];
+        return res[end];
     }
 };
