@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1171-shortest-path-in-binary-matrix](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+| [1757-minimum-jumps-to-reach-home](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1757-minimum-jumps-to-reach-home) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/ByteBug01/Leetcode_DSA/tree/master/2171-second-minimum-time-to-reach-destination) |
 ## Graph
 |  |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1720-crawler-log-folder](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [1757-minimum-jumps-to-reach-home](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1757-minimum-jumps-to-reach-home) |
 | [1803-average-waiting-time](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1803-average-waiting-time) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1517-restore-the-array](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1517-restore-the-array) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [1757-minimum-jumps-to-reach-home](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1757-minimum-jumps-to-reach-home) |
 ## Sliding Window
 |  |
 | ------- |
