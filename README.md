@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0166-fraction-to-recurring-decimal](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0166-fraction-to-recurring-decimal) |
+| [0202-happy-number](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0202-happy-number) |
 | [0264-ugly-number-ii](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0264-ugly-number-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0424-longest-repeating-character-replacement) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0143-reorder-list) |
 | [0189-rotate-array](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0043-multiply-strings) |
 | [0166-fraction-to-recurring-decimal](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0166-fraction-to-recurring-decimal) |
 | [0189-rotate-array](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0202-happy-number) |
 | [0264-ugly-number-ii](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0264-ugly-number-ii) |
 | [0598-range-addition-ii](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0598-range-addition-ii) |
 | [0650-2-keys-keyboard](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0650-2-keys-keyboard) |
