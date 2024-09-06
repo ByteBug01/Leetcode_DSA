@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2727-number-of-senior-citizens](https://github.com/ByteBug01/Leetcode_DSA/tree/master/2727-number-of-senior-citizens) |
 | [2846-robot-collisions](https://github.com/ByteBug01/Leetcode_DSA/tree/master/2846-robot-collisions) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/ByteBug01/Leetcode_DSA/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ByteBug01/Leetcode_DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2306-create-binary-tree-from-descriptions](https://github.com/ByteBug01/Leetcode_DSA/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2502-sort-the-people](https://github.com/ByteBug01/Leetcode_DSA/tree/master/2502-sort-the-people) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/ByteBug01/Leetcode_DSA/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ByteBug01/Leetcode_DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-middle-of-the-linked-list](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0908-middle-of-the-linked-list) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/ByteBug01/Leetcode_DSA/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/ByteBug01/Leetcode_DSA/tree/master/2299-merge-nodes-in-between-zeros) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ByteBug01/Leetcode_DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Simulation
 |  |
 | ------- |
