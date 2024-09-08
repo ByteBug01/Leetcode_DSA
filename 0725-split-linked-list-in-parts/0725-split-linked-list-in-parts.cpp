@@ -37,39 +37,36 @@ public:
     //     ans.push_back(tmp);
     // }
 
-    std::vector<ListNode*> result(k, nullptr);
-    int n = 0;
-    ListNode* temp = head;
+        int n = 0;
+       ListNode* tmp = head;
 
-    // Calculate the total length of the linked list
-    while (temp) {
-        n++;
-        temp = temp->next;
+      while(tmp != NULL){
+         tmp = tmp->next;
+         n++;
+      }
+
+vector<ListNode*> ans(k, NULL);
+
+if(head == NULL) return ans;
+
+int bucketNodes = n/k;
+int extraNode = n%k;
+
+ListNode* curr =  head;
+ListNode* prev = NULL;
+
+for(int i=0; i<k; i++){
+    ans[i] = curr;
+
+    for(int j = 0; j<(n/k) + (extraNode>0)?1:0; j++){
+        prev = curr;
+        curr = curr->next;
     }
-
-    int partSize = n / k;        // Minimum size of each part
-    int extra = n % k;           // Parts that will have one extra node
-
-    ListNode* curr= head;
-    for (int i = 0; i < k && curr; ++i) {
-        result[i] = curr;
-        int currentPartSize = partSize + (extra > 0 ? 1 : 0);
-        extra--;
-
-        // Move to the end of the current part
-        for (int j = 1; j < currentPartSize; ++j) {
-            curr = curr->next;
-        }
-
-        // Split the list
-        ListNode* nextPart = curr->next;
-        curr->next = nullptr;
-        curr = nextPart;
-    }
-
-    return result;
-     
-
+    prev->next = NULL;
+    extraNode--;
+}
+    
+return ans;
 
     }
 };
