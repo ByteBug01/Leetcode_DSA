@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0075-sort-colors) |
+| [0085-maximal-rectangle](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0085-maximal-rectangle) |
 | [0189-rotate-array](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0198-house-robber) |
 | [0283-move-zeroes](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0283-move-zeroes) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0085-maximal-rectangle) |
 | [0143-reorder-list](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0145-binary-tree-postorder-traversal) |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0085-maximal-rectangle) |
 | [0870-magic-squares-in-grid](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0999-regions-cut-by-slashes) |
@@ -351,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0005-longest-palindromic-substring) |
+| [0085-maximal-rectangle](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0085-maximal-rectangle) |
 | [0091-decode-ways](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0091-decode-ways) |
 | [0198-house-robber](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0198-house-robber) |
 | [0264-ugly-number-ii](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0264-ugly-number-ii) |
@@ -476,4 +480,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1435-xor-queries-of-a-subarray](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/ByteBug01/Leetcode_DSA/tree/master/2323-minimum-bit-flips-to-convert-number) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
