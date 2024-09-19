@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0166-fraction-to-recurring-decimal) |
 | [0189-rotate-array](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0202-happy-number) |
+| [0241-different-ways-to-add-parentheses](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0264-ugly-number-ii) |
 | [0598-range-addition-ii](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0598-range-addition-ii) |
 | [0650-2-keys-keyboard](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0650-2-keys-keyboard) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0234-palindrome-linked-list) |
+| [0241-different-ways-to-add-parentheses](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
 |  |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0076-minimum-window-substring) |
 | [0091-decode-ways](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0091-decode-ways) |
 | [0166-fraction-to-recurring-decimal](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0166-fraction-to-recurring-decimal) |
+| [0241-different-ways-to-add-parentheses](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0424-longest-repeating-character-replacement](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0726-number-of-atoms](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0726-number-of-atoms) |
 | [0974-reorder-data-in-log-files](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0974-reorder-data-in-log-files) |
@@ -360,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0085-maximal-rectangle) |
 | [0091-decode-ways](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0091-decode-ways) |
 | [0198-house-robber](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0198-house-robber) |
+| [0241-different-ways-to-add-parentheses](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0264-ugly-number-ii) |
 | [0650-2-keys-keyboard](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0650-2-keys-keyboard) |
 | [0911-profitable-schemes](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0911-profitable-schemes) |
@@ -495,4 +499,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/ByteBug01/Leetcode_DSA/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Memoization
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0241-different-ways-to-add-parentheses) |
 <!---LeetCode Topics End-->
