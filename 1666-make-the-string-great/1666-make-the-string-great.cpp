@@ -41,16 +41,16 @@
 class Solution {
 public:
  string makeGood(string s) {
-  string result = "";
-        
-        for(char &ch : s) {
-            if(result.size() > 0 && (ch + 32 == result.back() || ch - 32 == result.back())) {
-                result.pop_back();
-            } else {
-                result.push_back(ch);
-            }
+
+    string ans = "";
+
+    for(auto& ch: s){
+        if(ans.size() > 0 && (ans.back() + 32 == ch || ans.back() - 32 == ch)){
+            ans.pop_back();
+        }else{
+            ans.push_back(ch);
         }
-        
-        return result;
+    }
+ return ans;
  }
 };
