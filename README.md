@@ -283,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0776-n-ary-tree-postorder-traversal](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1078-remove-outermost-parentheses](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1078-remove-outermost-parentheses) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1666-make-the-string-great](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1666-make-the-string-great) |
 | [1720-crawler-log-folder](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1517-restore-the-array](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1517-restore-the-array) |
 | [1619-path-crossing](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1619-path-crossing) |
+| [1666-make-the-string-great](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1666-make-the-string-great) |
 | [1720-crawler-log-folder](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1720-crawler-log-folder) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1756-minimum-deletions-to-make-string-balanced) |
