@@ -22,27 +22,56 @@
 //     }
 // };
 
+//--------------------------------------------------------------------
+// class Solution {
+// public:
+//     int lengthOfLongestSubstring(string s) {
+
+//       int n = s.length();
+//         unordered_map<char, int> mp;
+
+//         int left = 0;
+//         int right = 0;
+//         int len = 0;
+
+//         while (right < n) {
+//             if (mp.find(s[right]) != mp.end()) {
+//                 left = max(mp[s[right]] + 1, left);
+//             }
+
+//             mp[s[right]] = right;
+//             len = max(len, right - left + 1);
+//             right++;
+//         }
+
+//         return len;
+//     }
+// };
+
+
 class Solution {
 public:
     int lengthOfLongestSubstring(string s) {
+        unordered_set<char> st;
 
-      int n = s.length();
-        unordered_map<char, int> mp;
+        int i = 0, j=0;
+        int maxlen = 0;
 
-        int left = 0;
-        int right = 0;
-        int len = 0;
+        while(i<s.length()){
+            if(st.count(s[i]) == 0){
+                st.insert(s[i]);
+                maxlen = max(maxlen, i-j+1);
+            }else{
+                while(st.count(s[i])){
+                    st.erase(s[j]);
+                    j++;
+                }
 
-        while (right < n) {
-            if (mp.find(s[right]) != mp.end()) {
-                left = max(mp[s[right]] + 1, left);
+                st.insert(s[i]);
             }
-
-            mp[s[right]] = right;
-            len = max(len, right - left + 1);
-            right++;
+            i++;
         }
 
-        return len;
+        return maxlen;
     }
 };
