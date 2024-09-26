@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0503-next-greater-element-ii) |
 | [0598-range-addition-ii](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0598-range-addition-ii) |
+| [0611-valid-triangle-number](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0611-valid-triangle-number) |
 | [0624-maximum-distance-in-arrays](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0735-asteroid-collision](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0735-asteroid-collision) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0611-valid-triangle-number](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0611-valid-triangle-number) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0908-middle-of-the-linked-list](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0908-middle-of-the-linked-list) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0493-reverse-pairs](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0493-reverse-pairs) |
+| [0611-valid-triangle-number](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0611-valid-triangle-number) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1046-max-consecutive-ones-iii](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -184,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0075-sort-colors) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0611-valid-triangle-number](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0611-valid-triangle-number) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0726-number-of-atoms](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0726-number-of-atoms) |
 | [0935-orderly-queue](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0935-orderly-queue) |
@@ -201,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0611-valid-triangle-number](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0611-valid-triangle-number) |
 | [0624-maximum-distance-in-arrays](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0890-lemonade-change) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
