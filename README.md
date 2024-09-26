@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0493-reverse-pairs](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0503-next-greater-element-ii) |
 | [0598-range-addition-ii](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0598-range-addition-ii) |
 | [0624-maximum-distance-in-arrays](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0503-next-greater-element-ii) |
 | [0726-number-of-atoms](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0726-number-of-atoms) |
 | [0735-asteroid-collision](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0735-asteroid-collision) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -516,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0085-maximal-rectangle](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0943-sum-of-subarray-minimums) |
 ## Brainteaser
 |  |
