@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0719-find-k-th-smallest-pair-distance](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0729-my-calendar-i) |
 | [0735-asteroid-collision](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0735-asteroid-collision) |
+| [0859-design-circular-deque](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0859-design-circular-deque) |
 | [0870-magic-squares-in-grid](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0890-lemonade-change) |
 | [0911-profitable-schemes](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0911-profitable-schemes) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0234-palindrome-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0725-split-linked-list-in-parts) |
+| [0859-design-circular-deque](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0859-design-circular-deque) |
 | [0908-middle-of-the-linked-list](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0908-middle-of-the-linked-list) |
 | [1484-linked-list-in-binary-tree](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1484-linked-list-in-binary-tree) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/ByteBug01/Leetcode_DSA/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0859-design-circular-deque](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0859-design-circular-deque) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Stack
 |  |
@@ -567,4 +570,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0729-my-calendar-i) |
+| [0859-design-circular-deque](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0859-design-circular-deque) |
 <!---LeetCode Topics End-->
