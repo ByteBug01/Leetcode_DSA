@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0496-next-greater-element-i) |
+| [0567-permutation-in-string](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0567-permutation-in-string) |
 | [0575-distribute-candies](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0575-distribute-candies) |
 | [0726-number-of-atoms](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0726-number-of-atoms) |
 | [0870-magic-squares-in-grid](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0870-magic-squares-in-grid) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0567-permutation-in-string](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0567-permutation-in-string) |
 | [0611-valid-triangle-number](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0611-valid-triangle-number) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0908-middle-of-the-linked-list](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0908-middle-of-the-linked-list) |
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0424-longest-repeating-character-replacement](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0567-permutation-in-string) |
 | [0726-number-of-atoms](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0726-number-of-atoms) |
 | [0935-orderly-queue](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0935-orderly-queue) |
 | [0974-reorder-data-in-log-files](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0974-reorder-data-in-log-files) |
@@ -436,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0567-permutation-in-string) |
 | [0966-binary-subarrays-with-sum](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/ByteBug01/Leetcode_DSA/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
