@@ -337,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0005-longest-palindromic-substring) |
+| [0014-longest-common-prefix](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0014-longest-common-prefix) |
 | [0043-multiply-strings](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0043-multiply-strings) |
 | [0076-minimum-window-substring](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0076-minimum-window-substring) |
 | [0091-decode-ways](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0091-decode-ways) |
@@ -594,6 +595,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0014-longest-common-prefix) |
 | [0386-lexicographical-numbers](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [2755-extra-characters-in-a-string](https://github.com/ByteBug01/Leetcode_DSA/tree/master/2755-extra-characters-in-a-string) |
