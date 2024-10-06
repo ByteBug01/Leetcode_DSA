@@ -63,35 +63,77 @@
 //     }
 // };
 
+//=------------------------------------
 
-class Solution {
+// class Solution {
+// public:
+//     string reverseWords(string s) {
+//         stack<string> st;
+
+//         string word = "";
+//         for(char &ch: s){
+//            if(ch == ' '){
+//             if(!word.empty())
+//              { st.push(word);
+//               word = "";
+//               }
+//            }
+//            else word += ch;
+//         }
+
+//         if(!word.empty()) st.push(word);
+
+//         string ans = "";
+//         while(!st.empty()){
+//             ans += st.top();
+//             st.pop();
+
+//             if(!st.empty()){
+//                 ans += " ";
+//             }
+
+//         }
+
+//         return ans;
+//     }};
+
+    //optimised by space
+
+    class Solution {
 public:
     string reverseWords(string s) {
-        stack<string> st;
+        int n = s.length();
 
-        string word = "";
-        for(char &ch: s){
-           if(ch == ' '){
-            if(!word.empty())
-             { st.push(word);
-              word = "";
-              }
-           }
-           else word += ch;
-        }
-
-        if(!word.empty()) st.push(word);
-
+        string tmp = "";
         string ans = "";
-        while(!st.empty()){
-            ans += st.top();
-            st.pop();
 
-            if(!st.empty()){
-                ans += " ";
+        int left = 0;
+        int right = n-1;
+
+        while(left <= right){
+            char ch = s[left];
+            if(ch != ' ') {
+                tmp += ch;
+            }else if(ch == ' '){
+
+                if(!tmp.empty())
+                {
+                if(ans == "") ans = tmp;
+                else if(ans != "") ans = tmp + " " + ans;
+                }
+                
+                tmp = ""; //rest temp    
+
             }
-
+                left++;
         }
 
-        return ans;
-    }};
+        if(tmp != ""){
+            if(ans != "") ans = tmp + " " + ans;
+            else ans = tmp;
+        }
+    
+    return ans;
+    }
+};
+
