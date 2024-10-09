@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0611-valid-triangle-number) |
 | [0624-maximum-distance-in-arrays](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0890-lemonade-change) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0735-asteroid-collision) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0943-sum-of-subarray-minimums](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0943-sum-of-subarray-minimums) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1078-remove-outermost-parentheses) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1666-make-the-string-great](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1666-make-the-string-great) |
@@ -355,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0567-permutation-in-string) |
 | [0726-number-of-atoms](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0726-number-of-atoms) |
 | [0935-orderly-queue](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0935-orderly-queue) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0974-reorder-data-in-log-files](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0974-reorder-data-in-log-files) |
 | [1078-remove-outermost-parentheses](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1078-remove-outermost-parentheses) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
