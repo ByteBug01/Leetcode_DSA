@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3235-minimum-cost-to-convert-string-i](https://github.com/ByteBug01/Leetcode_DSA/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/ByteBug01/Leetcode_DSA/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ByteBug01/Leetcode_DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3579-maximum-possible-number-by-binary-concatenation](https://github.com/ByteBug01/Leetcode_DSA/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
 ## Hash Table
 |  |
 | ------- |
@@ -574,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/ByteBug01/Leetcode_DSA/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/ByteBug01/Leetcode_DSA/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [3579-maximum-possible-number-by-binary-concatenation](https://github.com/ByteBug01/Leetcode_DSA/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -615,4 +617,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0729-my-calendar-i](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0729-my-calendar-i) |
 | [0859-design-circular-deque](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0859-design-circular-deque) |
+## Enumeration
+|  |
+| ------- |
+| [3579-maximum-possible-number-by-binary-concatenation](https://github.com/ByteBug01/Leetcode_DSA/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
 <!---LeetCode Topics End-->
