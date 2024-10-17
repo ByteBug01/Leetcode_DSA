@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0135-candy) |
 | [0611-valid-triangle-number](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0611-valid-triangle-number) |
 | [0624-maximum-distance-in-arrays](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0624-maximum-distance-in-arrays) |
+| [0670-maximum-swap](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0670-maximum-swap) |
 | [0890-lemonade-change](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0264-ugly-number-ii) |
 | [0598-range-addition-ii](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0598-range-addition-ii) |
 | [0650-2-keys-keyboard](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0650-2-keys-keyboard) |
+| [0670-maximum-swap](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0670-maximum-swap) |
 | [0870-magic-squares-in-grid](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0870-magic-squares-in-grid) |
 | [0935-orderly-queue](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0935-orderly-queue) |
 | [1014-k-closest-points-to-origin](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1014-k-closest-points-to-origin) |
