@@ -391,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0567-permutation-in-string) |
 | [0726-number-of-atoms](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0726-number-of-atoms) |
+| [0812-rotate-string](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0812-rotate-string) |
 | [0935-orderly-queue](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0935-orderly-queue) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0974-reorder-data-in-log-files](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0974-reorder-data-in-log-files) |
@@ -650,6 +651,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0214-shortest-palindrome) |
+| [0812-rotate-string](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0812-rotate-string) |
 ## Hash Function
 |  |
 | ------- |
