@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0999-regions-cut-by-slashes](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0999-regions-cut-by-slashes) |
 | [1002-maximum-width-ramp](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1002-maximum-width-ramp) |
 | [1014-k-closest-points-to-origin](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1014-k-closest-points-to-origin) |
+| [1044-find-common-characters](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1044-find-common-characters) |
 | [1046-max-consecutive-ones-iii](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1196-filling-bookcase-shelves](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1196-filling-bookcase-shelves) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0966-binary-subarrays-with-sum) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0999-regions-cut-by-slashes) |
+| [1044-find-common-characters](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1044-find-common-characters) |
 | [1207-delete-nodes-and-return-forest](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1207-delete-nodes-and-return-forest) |
 | [1256-rank-transform-of-an-array](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1256-rank-transform-of-an-array) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -395,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0935-orderly-queue](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0935-orderly-queue) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0974-reorder-data-in-log-files](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0974-reorder-data-in-log-files) |
+| [1044-find-common-characters](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1044-find-common-characters) |
 | [1078-remove-outermost-parentheses](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1078-remove-outermost-parentheses) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1302-delete-characters-to-make-fancy-string) |
