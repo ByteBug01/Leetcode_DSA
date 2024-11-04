@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1256-rank-transform-of-an-array) |
 | [1293-three-consecutive-odds](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1293-three-consecutive-odds) |
 | [1325-path-with-maximum-probability](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1325-path-with-maximum-probability) |
+| [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1333-sort-the-jumbled-numbers](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1333-sort-the-jumbled-numbers) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1435-xor-queries-of-a-subarray](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1435-xor-queries-of-a-subarray) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1044-find-common-characters](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1044-find-common-characters) |
 | [1207-delete-nodes-and-return-forest](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1207-delete-nodes-and-return-forest) |
 | [1256-rank-transform-of-an-array](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1256-rank-transform-of-an-array) |
+| [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1619-path-crossing](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1619-path-crossing) |
@@ -488,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0943-sum-of-subarray-minimums](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0943-sum-of-subarray-minimums) |
 | [1196-filling-bookcase-shelves](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1196-filling-bookcase-shelves) |
 | [1240-stone-game-ii](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1240-stone-game-ii) |
+| [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1511-count-number-of-teams) |
