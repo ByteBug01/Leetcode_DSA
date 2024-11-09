@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/ByteBug01/Leetcode_DSA/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2411-spiral-matrix-iv](https://github.com/ByteBug01/Leetcode_DSA/tree/master/2411-spiral-matrix-iv) |
 | [2472-build-a-matrix-with-conditions](https://github.com/ByteBug01/Leetcode_DSA/tree/master/2472-build-a-matrix-with-conditions) |
+| [2479-meeting-rooms-iii](https://github.com/ByteBug01/Leetcode_DSA/tree/master/2479-meeting-rooms-iii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ByteBug01/Leetcode_DSA/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2502-sort-the-people](https://github.com/ByteBug01/Leetcode_DSA/tree/master/2502-sort-the-people) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/ByteBug01/Leetcode_DSA/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2163-kth-distinct-string-in-an-array](https://github.com/ByteBug01/Leetcode_DSA/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/ByteBug01/Leetcode_DSA/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/ByteBug01/Leetcode_DSA/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2479-meeting-rooms-iii](https://github.com/ByteBug01/Leetcode_DSA/tree/master/2479-meeting-rooms-iii) |
 | [2502-sort-the-people](https://github.com/ByteBug01/Leetcode_DSA/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/ByteBug01/Leetcode_DSA/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/ByteBug01/Leetcode_DSA/tree/master/2586-longest-square-streak-in-an-array) |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2479-meeting-rooms-iii](https://github.com/ByteBug01/Leetcode_DSA/tree/master/2479-meeting-rooms-iii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ByteBug01/Leetcode_DSA/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2502-sort-the-people](https://github.com/ByteBug01/Leetcode_DSA/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/ByteBug01/Leetcode_DSA/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -314,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/ByteBug01/Leetcode_DSA/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/ByteBug01/Leetcode_DSA/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2411-spiral-matrix-iv](https://github.com/ByteBug01/Leetcode_DSA/tree/master/2411-spiral-matrix-iv) |
+| [2479-meeting-rooms-iii](https://github.com/ByteBug01/Leetcode_DSA/tree/master/2479-meeting-rooms-iii) |
 | [2645-pass-the-pillow](https://github.com/ByteBug01/Leetcode_DSA/tree/master/2645-pass-the-pillow) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/ByteBug01/Leetcode_DSA/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2846-robot-collisions](https://github.com/ByteBug01/Leetcode_DSA/tree/master/2846-robot-collisions) |
@@ -533,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1014-k-closest-points-to-origin) |
 | [1325-path-with-maximum-probability](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1325-path-with-maximum-probability) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/ByteBug01/Leetcode_DSA/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2479-meeting-rooms-iii](https://github.com/ByteBug01/Leetcode_DSA/tree/master/2479-meeting-rooms-iii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ByteBug01/Leetcode_DSA/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/ByteBug01/Leetcode_DSA/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Quickselect
