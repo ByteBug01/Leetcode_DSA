@@ -39,59 +39,129 @@
 //     }
 // };
 
-class Solution {
+// class Solution {
+// public:
+// int n ;
+// int dp[50001]; //as only the idx is changing
+// int getIdx(vector<vector<int>>& arr, int l, int currJobEnd){
+//     int r = n-1;
+
+//     int ansIdx = n+1;
+
+//     while(l<=r){
+//        int  mid = l + (r-l)/2;
+
+//         if(arr[mid][0] >= currJobEnd){
+//             ansIdx = mid;
+//            r = mid - 1;
+//         }else{
+//             l = mid +1;
+//         }
+//     }
+//     return ansIdx;
+// }
+
+// int solve(vector<vector<int>>& arr, int i){
+//     if(i >= n) return 0;
+
+// if(dp[i] != -1){
+//     return dp[i];
+// }
+//    int nextidx = getIdx(arr, i+1, arr[i][1]);
+
+//     int take = arr[i][2] + solve(arr, nextidx);
+
+//     int not_take = solve(arr, i+1 );
+    
+//     return dp[i] = max(take, not_take);
+// }
+
+//  int jobScheduling(vector<int>& startTime, vector<int>& endTime, vector<int>& profit) {
+//     n =  profit.size();
+
+//     memset(dp, -1, sizeof(dp));
+    
+//     vector<vector<int>> arr(n, vector<int>(3, 0));
+
+//     for(int i = 0; i<n; i++){
+//        arr[i][0] = startTime[i];
+//        arr[i][1] = endTime[i];
+//        arr[i][2] = profit[i];
+//     }
+
+//     sort(arr.begin(), arr.end());
+
+//     return solve(arr, 0);
+
+//  }
+// };
+
+
+class Solution{
 public:
-int n ;
-int dp[50001]; //as only the idx is changing
-int getIdx(vector<vector<int>>& arr, int l, int currJobEnd){
-    int r = n-1;
 
-    int ansIdx = n+1;
+int getNextIndex(vector<vector<int>>& arr, int l, int currJobEnd){
+    int low = l;
+    int n = arr.size();
+    int high =  n-1;
 
-    while(l<=r){
-       int  mid = l + (r-l)/2;
+    int nextIdx = -1;
 
-        if(arr[mid][0] >= currJobEnd){
-            ansIdx = mid;
-           r = mid - 1;
+    while(low <= high){
+        int mid = low + (high - low)/2;
+
+        if(arr[mid][0] >= currJobEnd) {
+            nextIdx =  mid;
+            high = mid - 1;
         }else{
-            l = mid +1;
+            low = mid + 1;
         }
     }
-    return ansIdx;
+
+    return nextIdx;
 }
 
-int solve(vector<vector<int>>& arr, int i){
-    if(i >= n) return 0;
 
-if(dp[i] != -1){
-    return dp[i];
+int solve( vector<vector<int>>& arr, int n, int i,  vector<int>& dp){
+      if(i >= n) return 0;
+
+      if(dp[i] != -1) return dp[i];
+
+
+      int nextIndex = getNextIndex(arr, i+1, arr[i][1]);
+
+      int take = arr[i][2] + (nextIndex == -1 ? 0 : solve(arr, n, nextIndex, dp)) ;
+
+      int not_take = solve(arr, n, i+1, dp);
+
+      return dp[i] = max(take, not_take);
 }
-   int nextidx = getIdx(arr, i+1, arr[i][1]);
 
-    int take = arr[i][2] + solve(arr, nextidx);
 
-    int not_take = solve(arr, i+1 );
-    
-    return dp[i] = max(take, not_take);
+int jobScheduling(vector<int>& startTime, vector<int>& endTime, vector<int>& profit) {
+        int n = startTime.size();
+
+        vector<vector<int>> arr(n, vector<int>(3, 0));
+
+
+        for(int i=0; i<n; i++){
+           arr[i][0] = startTime[i];
+           arr[i][1] = endTime[i];
+           arr[i][2] = profit[i];
+        }
+
+        //sort camparator
+
+        // auto comp = [&](auto & vec1, auto & vec2 ){
+        //     return vec1[0] <= vec2[0];
+        // };
+
+
+        sort(arr.begin(), arr.end());
+
+        vector<int> dp(n, -1);
+
+        return solve(arr, n, 0, dp);
+
 }
-
- int jobScheduling(vector<int>& startTime, vector<int>& endTime, vector<int>& profit) {
-    n =  profit.size();
-
-    memset(dp, -1, sizeof(dp));
-    
-    vector<vector<int>> arr(n, vector<int>(3, 0));
-
-    for(int i = 0; i<n; i++){
-       arr[i][0] = startTime[i];
-       arr[i][1] = endTime[i];
-       arr[i][2] = profit[i];
-    }
-
-    sort(arr.begin(), arr.end());
-
-    return solve(arr, 0);
-
- }
 };
