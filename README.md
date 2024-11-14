@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0056-merge-intervals](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0075-sort-colors) |
 | [0085-maximal-rectangle](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0085-maximal-rectangle) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0350-intersection-of-two-arrays-ii) |
