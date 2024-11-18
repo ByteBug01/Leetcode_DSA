@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1720-crawler-log-folder](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [1755-defuse-the-bomb](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1755-defuse-the-bomb) |
 | [1757-minimum-jumps-to-reach-home](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1757-minimum-jumps-to-reach-home) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1803-average-waiting-time](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1803-average-waiting-time) |
@@ -534,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0567-permutation-in-string) |
 | [0966-binary-subarrays-with-sum](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1046-max-consecutive-ones-iii) |
+| [1755-defuse-the-bomb](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1755-defuse-the-bomb) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/ByteBug01/Leetcode_DSA/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 ## Divide and Conquer
 |  |
