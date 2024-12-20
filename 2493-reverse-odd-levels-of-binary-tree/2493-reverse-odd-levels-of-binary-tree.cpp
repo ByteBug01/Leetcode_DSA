@@ -12,41 +12,64 @@
 class Solution {
 public:
 
+void solve(TreeNode* left, TreeNode* right, int level){
+   if(!left ||!right) return;
+
+   if(level %2!= 0){
+    swap(left->val, right->val);
+   }
+
+//see whose left and whoes right------------
+//    solve(left->left, left->right, level+1);
+//    solve(right->left, right->right, level+1);
+
+   solve(left->left, right->right, level+1);
+   solve(left->right, right->left, level+1);
+
+}
+
     TreeNode* reverseOddLevels(TreeNode* root) {
         if(root == NULL) return root;
-        int level = 0;
+        // int level = 0;
         
-        queue<TreeNode*> q;
-        q.push(root);
+//--------bfs ----------------------
 
-        while(!q.empty()){
-           int size = q.size();
-           vector<TreeNode*> nodes;
+        // queue<TreeNode*> q;
+        // q.push(root);
+
+        // while(!q.empty()){
+        //    int size = q.size();
+        //    vector<TreeNode*> nodes;
 
 
-           for(int i =0; i<size; i++){
-                TreeNode* node = q.front();
-                q.pop();
+        //    for(int i =0; i<size; i++){
+        //         TreeNode* node = q.front();
+        //         q.pop();
 
-                nodes.push_back(node);
+        //         nodes.push_back(node);
                 
-                if(node->left) q.push(node->left);
-                if(node->right) q.push(node->right);
-           }
+        //         if(node->left) q.push(node->left);
+        //         if(node->right) q.push(node->right);
+        //    }
 
-                    if(level %2 != 0){ //reverse node at odd level
+        //             if(level %2 != 0){ //reverse node at odd level
 
-                                int l = 0, r = nodes.size()-1;
-                                    while(l<r){
-                                swap(nodes[l]->val, nodes[r]->val);
-                                l++;
-                                r--;
-                                }
+        //                         int l = 0, r = nodes.size()-1;
+        //                             while(l<r){
+        //                         swap(nodes[l]->val, nodes[r]->val);
+        //                         l++;
+        //                         r--;
+        //                         }
 
-                    }
-        level++;
+        //             }
+        // level++;
 
-        }
+        // }
+
+
+
+    //-------recursion------------------
+    solve(root->left, root->right, 1);    
 
         return root;
     }
