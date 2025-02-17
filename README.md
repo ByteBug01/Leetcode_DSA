@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0999-regions-cut-by-slashes) |
 | [1044-find-common-characters](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1044-find-common-characters) |
+| [1160-letter-tile-possibilities](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1160-letter-tile-possibilities) |
 | [1207-delete-nodes-and-return-forest](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1207-delete-nodes-and-return-forest) |
 | [1256-rank-transform-of-an-array](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1256-rank-transform-of-an-array) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
@@ -428,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-reorder-data-in-log-files](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0974-reorder-data-in-log-files) |
 | [1044-find-common-characters](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1044-find-common-characters) |
 | [1078-remove-outermost-parentheses](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1078-remove-outermost-parentheses) |
+| [1160-letter-tile-possibilities](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1160-letter-tile-possibilities) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -596,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0948-sort-an-array) |
+| [1160-letter-tile-possibilities](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1160-letter-tile-possibilities) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ByteBug01/Leetcode_DSA/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -724,6 +727,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [1160-letter-tile-possibilities](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1160-letter-tile-possibilities) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ByteBug01/Leetcode_DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 <!---LeetCode Topics End-->
