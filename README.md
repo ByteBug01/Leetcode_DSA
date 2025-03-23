@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1706-min-cost-to-connect-all-points](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1706-min-cost-to-connect-all-points) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/ByteBug01/Leetcode_DSA/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2121-find-if-path-exists-in-graph](https://github.com/ByteBug01/Leetcode_DSA/tree/master/2121-find-if-path-exists-in-graph) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/ByteBug01/Leetcode_DSA/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2472-build-a-matrix-with-conditions](https://github.com/ByteBug01/Leetcode_DSA/tree/master/2472-build-a-matrix-with-conditions) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/ByteBug01/Leetcode_DSA/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2472-build-a-matrix-with-conditions](https://github.com/ByteBug01/Leetcode_DSA/tree/master/2472-build-a-matrix-with-conditions) |
 ## Union Find
 |  |
@@ -534,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1757-minimum-jumps-to-reach-home](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1757-minimum-jumps-to-reach-home) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/ByteBug01/Leetcode_DSA/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2586-longest-square-streak-in-an-array](https://github.com/ByteBug01/Leetcode_DSA/tree/master/2586-longest-square-streak-in-an-array) |
 | [2755-extra-characters-in-a-string](https://github.com/ByteBug01/Leetcode_DSA/tree/master/2755-extra-characters-in-a-string) |
 ## Sliding Window
@@ -609,6 +612,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1325-path-with-maximum-probability](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1325-path-with-maximum-probability) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/ByteBug01/Leetcode_DSA/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/ByteBug01/Leetcode_DSA/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/ByteBug01/Leetcode_DSA/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/ByteBug01/Leetcode_DSA/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Binary Indexed Tree
