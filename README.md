@@ -415,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0014-longest-common-prefix) |
 | [0043-multiply-strings](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0043-multiply-strings) |
+| [0072-edit-distance](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0076-minimum-window-substring) |
 | [0091-decode-ways](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0091-decode-ways) |
 | [0151-reverse-words-in-a-string](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0151-reverse-words-in-a-string) |
@@ -516,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0005-longest-palindromic-substring) |
+| [0072-edit-distance](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0085-maximal-rectangle) |
 | [0091-decode-ways](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0091-decode-ways) |
 | [0198-house-robber](https://github.com/ByteBug01/Leetcode_DSA/tree/master/0198-house-robber) |
