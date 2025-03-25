@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/ByteBug01/Leetcode_DSA/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/ByteBug01/Leetcode_DSA/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/ByteBug01/Leetcode_DSA/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3430-count-days-without-meetings](https://github.com/ByteBug01/Leetcode_DSA/tree/master/3430-count-days-without-meetings) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ByteBug01/Leetcode_DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3579-maximum-possible-number-by-binary-concatenation](https://github.com/ByteBug01/Leetcode_DSA/tree/master/3579-maximum-possible-number-by-binary-concatenation) |
 ## Hash Table
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2846-robot-collisions](https://github.com/ByteBug01/Leetcode_DSA/tree/master/2846-robot-collisions) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/ByteBug01/Leetcode_DSA/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/ByteBug01/Leetcode_DSA/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3430-count-days-without-meetings](https://github.com/ByteBug01/Leetcode_DSA/tree/master/3430-count-days-without-meetings) |
 ## Greedy
 |  |
 | ------- |
